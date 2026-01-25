@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @matbagsic
-- 👀 I’m interested in web app development using C#, .NET and Angular
-- 🌱 I’m currently learning Microsoft Azure DevOps
+- 👋 Hi! I'm Florence Mathew Bagsic, but you can call me as Mat. Welcome to my Github profile!
+- 💻 I'm a Full Stack Developer and I specialize in software development across the tack, including backend, frontend, DevOps, Cloud and architecture.
+- 📝 I'm also trying to venture into technical writing and content creation.
 - 📫 How to reach me: email at mat.bagsic.main@gmail.com
 
 <!---
