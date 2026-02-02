@@ -10,6 +10,11 @@ Specialization: full-stack software development, DevOps, architecture, technical
 
 Tech stack: .NET, C#, Typescript, Angular, Vue.js, REST API, SQL, Microservices, Azure DevOps, MS Azure, K8s, etc.
 
+Ongoing projects:
+- https://github.com/matbagsic/the-coffee-mat-web
+  - A personal project that envisions my future coffee shop brand.
+  - Status: ongoing requirement specification / MVP scope
+
 Need help in achieving project milestones? Let's work together!
 - 📧 florence.mathew.bagsic@gmail.com
 - 👥 https://www.upwork.com/freelancers/~01ed85fe3749860933?mp_source=share
